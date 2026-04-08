@@ -45,7 +45,7 @@ Documentação: `http://127.0.0.1:8000/docs`
 
 ## O que aprendi aqui
 
-Aprendi a fazer minha API conversar com outra API — algo que não existia na calculadora. Aqui precisei usar o `httpx` pra buscar dados no ViaCEP, entender o que é `async/await` e por que ele existe, e tratar diferentes tipos de erro antes mesmo de fazer a requisição. Foi a primeira vez que meu código dependeu de algo externo pra funcionar.
+Aprendi a fazer minha API conversar com outra API, algo que não existia na calculadora. Aqui precisei usar o `httpx` pra buscar dados no ViaCEP, entender o que é `async/await` e por que ele existe, e tratar diferentes tipos de erro antes mesmo de fazer a requisição. Foi a primeira vez que meu código dependeu de algo externo pra funcionar.
 
 ---
 
