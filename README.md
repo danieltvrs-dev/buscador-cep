@@ -4,7 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.135-e8132a?style=flat-square&logo=fastapi&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-22c55e?style=flat-square)
 
-API que recebe um CEP e retorna o endereço completo consultando o ViaCEP — uma API pública e gratuita do governo brasileiro.
+API que recebe um CEP e retorna o endereço completo consultando o ViaCEP, uma API pública e gratuita do governo brasileiro.
 
 ---
 
